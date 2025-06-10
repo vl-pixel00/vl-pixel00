@@ -1,5 +1,3 @@
-## Romulus Vlad Lapusan
-
 ## About
 
 MSc Artificial Intelligence for Media student with a background in Film Production and Architectural Design. Developing technical skills in AI and machine learning with a focus on media applications.
@@ -44,8 +42,3 @@ Entry-level opportunities in AI, media technology, or roles combining creative a
 ## GitHub Activity
 
 Currently building a portfolio of AI and media projects through coursework and personal learning.
-
-## Contact
-
-- LinkedIn:
-- Email: 
