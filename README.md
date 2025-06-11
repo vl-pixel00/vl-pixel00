@@ -1,44 +1,27 @@
-## About
+# About Me
 
-MSc Artificial Intelligence for Media student with a background in Film Production and Architectural Design. Developing technical skills in AI and machine learning with a focus on media applications.
+## AI Researcher with Media & Creative Technology Focus
 
-## Education
-
-**MSc Artificial Intelligence for Media - Bournemouth University** (In Progress)
-
-**Background**: Film Production and Architectural Design
+MSc Artificial Intelligence for Media student leveraging my background in architectural design and film production to explore technical AI applications. Interested in expanding into game development and interactive media.
 
 ## Technical Skills
 
-**Programming**
-- Python (intermediate - script development)
-- C++ (learning)
+- **Machine Learning**: Classification models, pattern recognition, data analysis
+- **Computer Vision**: 3D reconstruction, image processing algorithms
+- **Python**: NumPy, Pandas, scikit-learn, OpenCV, Jupyter
+- **NLP**: Text classification, feature engineering
+- **Media Technology**: AI applications in film/video production workflows
+- **Learning**: Unreal Engine, game development concepts
 
-**AI & Machine Learning**
-- PyTorch
-- Pandas, NumPy, OpenCV, scikit-learn
-- Stable Diffusion
-- ComfyUI
-- Veo3 (experimental)
-- ChatGPT
+## Research Interests
 
-**Platforms**
-- Cross-platform development (macOS, Linux, Windows)
+- 3D reconstruction techniques
+- Machine learning in media applications
+- Computer vision systems
+- AI tools for creative workflows
+- Exploring Unreal Engine and AI integration in games
+- Interdisciplinary approaches combining architecture, film, and AI
 
-**Creative & Technical Tools**
-- Blender (learning)
-- AI-powered content creation workflows
+---
 
-## Current Focus
-
-- AI applications in media and entertainment
-- Unreal Engine development
-- Machine learning for creative industries
-
-## Seeking
-
-Entry-level opportunities in AI, media technology, or roles combining creative and technical skills.
-
-## GitHub Activity
-
-Currently building a portfolio of AI and media projects through coursework and personal learning.
+*Combining architectural thinking and film production insights with AI to create innovative technical solutions.*
