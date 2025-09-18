@@ -19,7 +19,7 @@ MSc Artificial Intelligence for Media (2025). I build **small, reliable** AI sys
 
 ## Other Skills
 
-- **Creative Tools:** Adobe Creative Suite (Photoshop, Premiere, After Effects) for media processing and visualisation; video-editing workflows
+- **Creative Tools:** Adobe Creative Suite for media processing and visualisation; design workflows
 
 ## Research Interests
 
