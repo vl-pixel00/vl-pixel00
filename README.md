@@ -2,12 +2,12 @@
 
 ## AI/ML Graduate
 
-MSc Artificial Intelligence for Media (2025). I build **small, reliable** AI systems for constrained/regulated settings that run **offline/on-device** when needed, produce **auditable outputs**, use **clear metrics**, and have **reproducible runs**. I like to take a scoped problem, ship a first version quickly, then harden it with tests, validation, and documentation.
+MSc Artificial Intelligence for Media (2025). I build small, reliable AI systems for constrained/regulated settings that run offline/on-device when needed, produce auditable outputs, use clear metrics, and have reproducible runs. I like to take a scoped problem, ship a first version quickly, then harden it with tests, validation, and documentation.
 
 ## Technical Skills
 
 - **Programming & Stack:** Python; PyTorch, MLX; NumPy, pandas, scikit-learn; OpenCV  
-- **ML:** training & evaluation (accuracy/F1; latency/size); experiment design; reproducible configs/seeds; classification and clustering  
+- **ML:** training & evaluation (accuracy/F1; AUROC/AUPRC; per-field accuracy & JSON validity; throughput (records/min)); experiment design; reproducible configs/seeds; classification and clustering
 - **LLMs:** fine-tuning; parameter-efficient methods; task adaptation; schema/JSON validation  
 - **CV & 3D:** detection/classification; image processing; 3D reconstruction/multi-view  
 - **NLP:** text classification; NER; event extraction; clean preprocessing pipelines  
