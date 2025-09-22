@@ -7,7 +7,7 @@ MSc Artificial Intelligence for Media (2025). I build small, reliable AI systems
 ## Technical Skills
 
 - **Programming & Stack:** Python; PyTorch, MLX; NumPy, pandas, scikit-learn; OpenCV  
-- **ML:** training & evaluation (accuracy/F1; AUROC/AUPRC; per-field accuracy & JSON validity; throughput (records/min)); experiment design; reproducible configs/seeds; classification and clustering
+- **ML:** training & evaluation (accuracy/F1; per-field accuracy & JSON validity; throughput (records/min)); experiment design; reproducible configs/seeds; classification and clustering
 - **LLMs:** fine-tuning; parameter-efficient methods; task adaptation; schema/JSON validation  
 - **CV & 3D:** detection/classification; image processing; 3D reconstruction/multi-view  
 - **NLP:** text classification; NER; event extraction; clean preprocessing pipelines  
