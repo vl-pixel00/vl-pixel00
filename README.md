@@ -27,6 +27,5 @@ MSc Artificial Intelligence for Media (2025). I build small, reliable AI systems
 - Robust evaluation & reproducibility (audit logs, versioned artefacts)
 - CV for situational awareness; 3D/simulation testbeds for perception
 - Applied GenAI/NLP for structured extraction and data integration
-- Cross-domain work in defence, public sector, and health
 
 *Practical AI that others can run, test, and trust.*
