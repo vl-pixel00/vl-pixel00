@@ -15,7 +15,6 @@ MSc Artificial Intelligence for Media (2025). I build small, reliable AI systems
 - **Engineering:** logging/monitoring; packaging/versioning; reproducible runs; docs/reporting  
 - **Simulation:** Unity for AV/simulation  
 - **Foundations:** linear algebra; probability & statistics; optimisation  
-- **Learning:** production Python practices; FastAPI; AWS Certified AI Practitioner (in progress)
 
 ## Other Skills
 
